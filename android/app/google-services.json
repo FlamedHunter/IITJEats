@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1070391860136",
+    "firebase_url": "https://iitj-eats-default-rtdb.firebaseio.com",
+    "project_id": "iitj-eats",
+    "storage_bucket": "iitj-eats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070391860136:android:247024b2b0fbefe35f5b9d",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070391860136-a3g9m9ure1h4lgsuuev33j89clkr50hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_app",
+            "certificate_hash": "3d481fbb39a83837c933ecd3335b002941d9b3d2"
+          }
+        },
+        {
+          "client_id": "1070391860136-aesjnd9im30cq4do9168293imtub5rcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnspiYs882IDCCGIYuqolcQUaRA5JIGX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070391860136-aesjnd9im30cq4do9168293imtub5rcl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070391860136-6u15o9h5k8uom9be9u08tjrdf7mpb0gh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
